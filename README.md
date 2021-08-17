@@ -1,5 +1,9 @@
 # Ssssh.....
 
+Project developed in FH2020 for an experiment that had to be performed for Security Lab.
+
+**Experiment 2: Design & implementation of a product cipher using substitution and transposition Ciphers.**
+
 ### Substitution Cipher:
 >In cryptography, a substitution cipher is a method of encrypting in which units of plaintext are replaced with ciphertext, according to a fixed system; the "units" may be single letters (the most common), pairs of letters, triplets of letters, mixtures of the above, and so forth.
 
@@ -35,3 +39,44 @@ In a transposition cipher, the order of the alphabets is re-arranged to obtain t
 • When we reach the bottom rail, we traverse upwards moving diagonally, after reaching the top rail, the direction is changed again. Thus the alphabets of the message are written in a zig-zag manner. 
 
 • After each alphabet has been written, the individual rows are combined to obtain the cipher-text.
+
+## Project Images:
+
+### Landing Page:
+
+<div style="text-align:center">
+<img width="660" alt="1" src="https://user-images.githubusercontent.com/56472876/129669828-cc7ee2b0-be5d-4178-86e5-182f50f87176.PNG">
+
+
+<img width="660" alt="2" src="https://user-images.githubusercontent.com/56472876/129669847-2b4a773f-40a9-4172-9183-a787eda4f2a8.PNG">
+
+
+<img width="660" alt="3" src="https://user-images.githubusercontent.com/56472876/129669860-392e8938-7cff-4536-a9bf-7fb19b90398b.PNG">
+<br>
+<img width="660" alt="4" src="https://user-images.githubusercontent.com/56472876/129669865-12fb0428-77b9-443b-9a1c-a586eb4e930e.PNG">
+</div>
+### Encryption:
+
+<img width="660" alt="5" src="https://user-images.githubusercontent.com/56472876/129669873-25c00d88-1ab1-4706-8f6c-0ce224a1a739.PNG">
+
+<img width="660" alt="6" src="https://user-images.githubusercontent.com/56472876/129669885-2fb5083b-fbc0-4e4f-bf9c-43f59c7aa8f1.PNG">
+
+### Decryption:
+
+<img width="660" alt="7" src="https://user-images.githubusercontent.com/56472876/129669892-933d7e9d-3711-43ec-a0d5-da6405b3cd88.PNG">
+
+> QOUTES ABOVE (e.g by John Von Neumann) KEEP ON CHANGING FOR EACH MESSAGE.
+
+<img width="660" alt="8" src="https://user-images.githubusercontent.com/56472876/129669904-22739eac-2cb2-44a5-8184-7169ccdbd9a5.PNG">
+
+<img width="660" alt="9" src="https://user-images.githubusercontent.com/56472876/129669911-6973f1ac-f0e9-4f2e-bdca-ff9e48d35a4d.PNG">
+
+### If user tries to refresh:
+
+<img width="660" alt="10" src="https://user-images.githubusercontent.com/56472876/129669916-804c4821-73f3-4daa-ab10-78bacb85f2e2.PNG">
+
+## TOOLS USED:
+
+1. PYTHON – For Product Cipher (Encryption and Decryption)
+2. FLASK – Sever-side
+3. HTML, CSS, JS – For front-end
