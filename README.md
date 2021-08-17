@@ -64,6 +64,7 @@ In a transposition cipher, the order of the alphabets is re-arranged to obtain t
 
 <img width="660" alt="4" src="https://user-images.githubusercontent.com/56472876/129669865-12fb0428-77b9-443b-9a1c-a586eb4e930e.PNG">
 </p>
+</br>
 
 ### Encryption:
 <p align="center">
@@ -71,25 +72,30 @@ In a transposition cipher, the order of the alphabets is re-arranged to obtain t
 
 <img width="660" alt="6" src="https://user-images.githubusercontent.com/56472876/129669885-2fb5083b-fbc0-4e4f-bf9c-43f59c7aa8f1.PNG">
 </p>
+</br>
 
 ### Decryption:
 <p align="center">
 <img width="660" alt="7" src="https://user-images.githubusercontent.com/56472876/129669892-933d7e9d-3711-43ec-a0d5-da6405b3cd88.PNG">
 
 </p>
+</br>
 
 > QOUTES ABOVE (e.g by John Von Neumann) KEEP ON CHANGING FOR EACH MESSAGE.
 
+</br>
 <p align="center">
 <img width="660" alt="8" src="https://user-images.githubusercontent.com/56472876/129669904-22739eac-2cb2-44a5-8184-7169ccdbd9a5.PNG">
 
 <img width="660" alt="9" src="https://user-images.githubusercontent.com/56472876/129669911-6973f1ac-f0e9-4f2e-bdca-ff9e48d35a4d.PNG">
 </p>
+</br>
 
 ### If user tries to refresh:
 <p align="center">
 <img width="660" alt="10" src="https://user-images.githubusercontent.com/56472876/129669916-804c4821-73f3-4daa-ab10-78bacb85f2e2.PNG">
 </p>
+</br>
 
 ## TOOLS USED:
 
