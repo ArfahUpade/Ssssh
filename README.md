@@ -103,3 +103,4 @@ In a transposition cipher, the order of the alphabets is re-arranged to obtain t
 1. PYTHON – For Product Cipher (Encryption and Decryption)
 2. FLASK – Sever-side
 3. HTML, CSS, JS – For front-end
+4. HEROKU - Deployment
